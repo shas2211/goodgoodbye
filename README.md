@@ -5,3 +5,14 @@ Annnd run the code it may take a bit time to load but dont worry it works fine a
 Btw this code just copies your actions and displays on the left of the screen with delay . So that it actually looks like u have gf (which u dont) and she is dancing along with u.
 Song used in the reel is good goodbye .
 well I hope this helps and u get a gf before feb 14 . 
+
+# GoodGoodbye
+
+A cool MediaPipe project that mirrors and delays your pose in real time,
+creating an effect like a delayed “dance partner” in your webcam feed.
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+
